@@ -7,7 +7,7 @@ body{
     background-color: black;
 }
 html{
-    scroll-padding-top: 50px;
+    scroll-padding-top: 65px;
     scroll-behavior: smooth;
 }
 .container{
